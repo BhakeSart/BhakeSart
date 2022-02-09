@@ -31,6 +31,7 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/"> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<a>
 <a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</a>
 <a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
+<a href="https://jupyter.org/"> ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)</a>
 <a href="https://scikit-learn.org/stable/"> ![Sci-Kit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)</a>
 <a href="https://www.tensorflow.org/"> ![tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)</a>
 <a href="https://www.r-project.org/"> ![R](https://img.shields.io/badge/R%20Language-lightgray?style=for-the-badge&logo=r&logoColor=blue)</a>
