@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak</h1>
-<h3 align="center"><b>I'm a Machine Learning and Data Analytics Enthusiast.</h3> <br> <br>
+<h3 align="center"><b>I'm a Machine Learning and Data Analytics Enthusiast.</h3> <br> 
 
 
 
@@ -38,8 +38,7 @@
 <a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/html/"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
-<a href="https://getbootstrap.com/"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
-<a href="https://www.arduino.cc/"> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>  
+<a href="https://getbootstrap.com/"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>  
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
     
