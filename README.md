@@ -22,6 +22,7 @@
 
 <p align="left"> 
 
+<a href="https://www.arduino.cc/"> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a> 
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
