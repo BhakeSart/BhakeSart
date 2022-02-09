@@ -8,15 +8,15 @@
 ## 🙋‍♂️ About Me 
 
 
-- 🔭 I’m currently working on some projects in **Machine Learning and Data Analytics****
+- 🔭 I’m currently working on some projects in **Machine Learning and Data Analytics.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Internet of Things (IoT)**
+- 🌱 I’m currently learning **Data Structures and Algorithms and Internet of Things (IoT).**
 
-- 👯 I’m looking to collaborate on **Projects on Machine Learning , Data Analytics and Web Development**
+- 👯 I’m looking to collaborate on **Projects on Machine Learning , Data Analytics and Web Development.**
 
-- 📫 How to reach me **bhakesarthak1@gmail.com**
+- 📫 You can reach me on **bhakesarthak1@gmail.com**
 
-- ⚡ Fun fact **I play Football and I'm a Huge Formula 1 Fan**
+- ⚡ Fun fact **I Play Football and I'm an Avid Formula 1 Fan.**
 
 <br>
 
@@ -29,8 +29,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
-    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     
@@ -42,14 +40,14 @@
 
 <p align="center">
     <a href="https://github.com/BhakeSart/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akshay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BhakeSart&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BhakeSart&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/BhakeSart/github-readme-stats"><img alt="Sarthak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BhakeSart&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/BhakeSart/github-readme-stats"><img alt="Sarthak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BhakeSart&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <br> <br>
   <a href="https://github.com/BhakeSart/github-readme-stats"><img alt="Sarthak's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhakeSart&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -73,5 +71,5 @@
 </p>
 
 ## Views and Followers
-![](https://komarev.com/ghpvc/?username=AkshayTati)
+![](https://komarev.com/ghpvc/?username=BhakeSart)
 <a href="https://github.com/BhakeSart?tab=followers"><img src="https://img.shields.io/github/followers/BhakeSart?label=Followers&style=social" alt="GitHub Badge"></a>
