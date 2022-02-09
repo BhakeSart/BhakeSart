@@ -14,7 +14,7 @@
 
 - 📫 You can reach me on **bhakesarthak1@gmail.com**
 
-- ⚡ Fun fact- **I Play Football and I'm an Avid Formula 1 Fan.**
+- ⚡ Fun fact - **I Play Football and I'm an Avid Formula 1 Fan.**
 
 <br>
 
