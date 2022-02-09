@@ -67,12 +67,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sarthak-bhake/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
 <a href = "https://www.instagram.com/sarthak.bhake_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
 
-## ❤ Views and Followers
+## Views and Followers
 ![](https://komarev.com/ghpvc/?username=AkshayTati)
 <a href="https://github.com/BhakeSart?tab=followers"><img src="https://img.shields.io/github/followers/BhakeSart?label=Followers&style=social" alt="GitHub Badge"></a>
