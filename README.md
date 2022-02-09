@@ -8,15 +8,13 @@
 ## 🙋‍♂️ **About Me** 
 
 
-- 🔭 I’m currently working on some projects in **Machine Learning and Data Analytics.**
+- 🔭 I have a key interest in the field of **Machine Learning and Data Analytics.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Internet of Things (IoT).**
-
-- 👯 I’m looking to collaborate on **Projects on Machine Learning , Data Analytics and Web Development.**
+- 🌱 I’m currently learning **DSA and Internet of Things (IoT).**
 
 - 📫 You can reach me on **bhakesarthak1@gmail.com**
 
-- ⚡ Fun fact **I Play Football and I'm an Avid Formula 1 Fan.**
+- ⚡ Fun fact- **I Play Football and I'm an Avid Formula 1 Fan.**
 
 <br>
 
@@ -24,7 +22,7 @@
 
 <p align="left"> 
 
-<a href="https://www.arduino.cc/"> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>   
+ 
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
@@ -41,6 +39,7 @@
 <a href="https://www.w3schools.com/html/"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://getbootstrap.com/"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
+<a href="https://www.arduino.cc/"> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>  
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.linux.org/"> ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)</a>
     
