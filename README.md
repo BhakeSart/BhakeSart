@@ -33,7 +33,7 @@
 <a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</a>
 <a href="https://jupyter.org/"> ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)</a>
 <a href="https://scikit-learn.org/stable/"> ![Sci-Kit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)</a>
-<a href="https://www.tensorflow.org/"> ![tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)</a>
+<!-- <a href="https://www.tensorflow.org/"> ![tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)</a> -->
 <a href="https://www.r-project.org/"> ![R](https://img.shields.io/badge/R%20Language-lightgray?style=for-the-badge&logo=r&logoColor=blue)</a>
 <a href="https://www.mysql.com/"> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> ![Microsft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
