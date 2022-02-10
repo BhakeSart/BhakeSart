@@ -20,7 +20,7 @@
 
 ## 🚀 **Languages and Tools** 
 
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://www.arduino.cc/"> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)</a>
 <a href="https://git-scm.com/"> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a>
