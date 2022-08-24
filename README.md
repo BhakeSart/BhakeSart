@@ -10,7 +10,7 @@
 
 - 🔭 I have a key interest in the field of **Machine Learning and Data Analytics.**
 
-- 🌱 I’m currently learning **DSA and Blockchain Development.**
+- 🌱 I’m currently learning **Blockchain Development.**
 
 - 📫 You can reach me on **bhakesarthak1@gmail.com**
 
