@@ -10,7 +10,7 @@
 
 - 🔭 I have a key interest in the field of **Machine Learning and Data Analytics.**
 
-- 🌱 I’m currently learning **System Design and Data Engineering**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 You can reach me on **bhakesarthak1@gmail.com**
 
